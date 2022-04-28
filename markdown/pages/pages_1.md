@@ -1,9 +1,7 @@
 ---
 Title: 網站位置
-Date: 2022-3-31 17:00
-Category: Misc
-Tags: DC2022
-Slug: pages
+Date: 2022-4-28 17:00
+Slug: pages/index
 Author: 40723217
 ---
 
