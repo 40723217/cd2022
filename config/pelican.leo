@@ -49,7 +49,6 @@
 </v>
 <v t="yen.20170108171733.71"><vh>@path markdown</vh>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
-<v t="leo.20220428145831.1"><vh>@edit pages.md</vh></v>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
