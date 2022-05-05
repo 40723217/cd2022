@@ -1,9 +1,4 @@
----
-Title: 網站位置
-Date: 2022-4-28 17:00
-Slug: pages/index
-Author: 40723217
----
+Title: about
 
 ## CD2022 內容管理網誌
 
